@@ -1,0 +1,266 @@
+[
+  {
+    "id": "C001",
+    "status": "OFFICIAL_CLAIM",
+    "statement": "KRAFTON states that its investigation of official broadcasts, participant footage, in-game data and replays found Himass and TanVuu used external information / stream sniping during competition.",
+    "sources": [
+      "S01",
+      "S06"
+    ],
+    "note": "This records KRAFTON's conclusion. The archive does not independently possess the underlying private investigation dataset."
+  },
+  {
+    "id": "C002",
+    "status": "VERIFIED_FACT",
+    "statement": "KRAFTON permanently banned the PUBG accounts of Himass and TanVuu.",
+    "sources": [
+      "S01",
+      "S06"
+    ]
+  },
+  {
+    "id": "C003",
+    "status": "VERIFIED_FACT",
+    "statement": "KRAFTON permanently revoked Himass and TanVuu's eligibility for official PUBG esports tournaments hosted or sanctioned by KRAFTON.",
+    "sources": [
+      "S01",
+      "S06"
+    ]
+  },
+  {
+    "id": "C004",
+    "status": "VERIFIED_FACT",
+    "statement": "KRAFTON provided a procedure through which the players could submit an explanation / appeal.",
+    "sources": [
+      "S01",
+      "S06"
+    ]
+  },
+  {
+    "id": "C005",
+    "status": "OFFICIAL_ADMISSION",
+    "statement": "KRAFTON acknowledged responsibility for failures in tournament operation and communication that contributed to confusion and conflict.",
+    "sources": [
+      "S01"
+    ]
+  },
+  {
+    "id": "C006",
+    "status": "OFFICIAL_ADMISSION",
+    "statement": "KRAFTON said it was reviewing event management, announcements/communications, investigation and decision-making processes.",
+    "sources": [
+      "S01",
+      "S06"
+    ]
+  },
+  {
+    "id": "C007",
+    "status": "OFFICIAL_CLAIM",
+    "statement": "KRAFTON says it never officially permitted participants to watch other players' broadcasts or use external information during matches.",
+    "sources": [
+      "S01",
+      "S06"
+    ]
+  },
+  {
+    "id": "C008",
+    "status": "VERIFIED_FACT",
+    "statement": "The official event page described PUBG Asia Stars as a competition involving PUBG streamers from six Asian regions.",
+    "sources": [
+      "S02"
+    ]
+  },
+  {
+    "id": "C009",
+    "status": "VERIFIED_FACT",
+    "statement": "The official schedule listed Day 1 on 17 Sep 2026, Day 2 on 19 Sep, and Day 3 on 20 Sep.",
+    "sources": [
+      "S02"
+    ]
+  },
+  {
+    "id": "C010",
+    "status": "VERIFIED_FACT",
+    "statement": "KRAFTON cancelled the remaining Day 3 matches and said it was reviewing match video, personal broadcast POVs and team voice materials.",
+    "sources": [
+      "S03"
+    ]
+  },
+  {
+    "id": "C011",
+    "status": "OFFICIAL_ADMISSION",
+    "statement": "KRAFTON said earlier communications had mixed confirmed facts with matters still under investigation, increasing confusion.",
+    "sources": [
+      "S03"
+    ]
+  },
+  {
+    "id": "C012",
+    "status": "PARTY_POSITION",
+    "statement": "GAM x TE challenged the proportionality of TanVuu's permanent account and esports bans and requested a fair, transparent appeal process.",
+    "sources": [
+      "S04"
+    ]
+  },
+  {
+    "id": "C013",
+    "status": "PARTY_POSITION",
+    "statement": "GAM x TE argued that personal streaming was permitted and that the specific disputed infraction was not explicitly stated in the tournament rulebook at the time.",
+    "sources": [
+      "S04"
+    ],
+    "note": "This is the team's position as reported by Inven Global."
+  },
+  {
+    "id": "C014",
+    "status": "PARTY_POSITION",
+    "statement": "Anyone's Legend said it was reviewing the cited regulations, the rulebook in force, tournament management, instructions delivered to Himass, and related documents to support appeal rights.",
+    "sources": [
+      "S04"
+    ]
+  },
+  {
+    "id": "C015",
+    "status": "SECONDARY_REPORT",
+    "statement": "ChosunBiz reported that the participant rulebook recommended a reasonable personal-stream delay but did not mandate a specific delay.",
+    "sources": [
+      "S05"
+    ]
+  },
+  {
+    "id": "C016",
+    "status": "SECONDARY_REPORT",
+    "statement": "ChosunBiz reported that Asia Stars did not require participants to disable or restrict live chat, unlike controls used in some other PUBG competitions.",
+    "sources": [
+      "S05"
+    ]
+  },
+  {
+    "id": "C017",
+    "status": "SECONDARY_REPORT",
+    "statement": "ChosunBiz reported that stronger anti-stream-sniping measures were added only after the controversy erupted.",
+    "sources": [
+      "S05"
+    ]
+  },
+  {
+    "id": "C018",
+    "status": "VERIFIED_FACT",
+    "statement": "KRAFTON issued a separate apology to Soopi and said it would support removal/blocking of false or illegally fabricated posts and cooperate on legal responses.",
+    "sources": [
+      "S06"
+    ]
+  },
+  {
+    "id": "C019",
+    "status": "OFFICIAL_CLAIM",
+    "statement": "KRAFTON said similar allegations concerning other participants were reviewed and no additional sanctionable circumstances were identified.",
+    "sources": [
+      "S06"
+    ]
+  },
+  {
+    "id": "C020",
+    "status": "ANALYSIS",
+    "statement": "The fact that KRAFTON says other participants were reviewed does not by itself allow outsiders to reproduce or compare those investigations because the detailed methodology and evidence were not publicly disclosed in the cited report.",
+    "sources": [
+      "S06"
+    ]
+  },
+  {
+    "id": "C021",
+    "status": "VERIFIED_FACT",
+    "statement": "Team Korea did not participate in Day 2 as a boycott over tournament management and the handling of the controversy.",
+    "sources": [
+      "S07"
+    ]
+  },
+  {
+    "id": "C022",
+    "status": "SECONDARY_REPORT",
+    "statement": "Inven Global reported that Kim Seong-tae said KRAFTON had assured the Korean side that the Vietnamese apology would admit stream sniping, while the published apology did not contain that admission.",
+    "sources": [
+      "S07"
+    ]
+  },
+  {
+    "id": "C023",
+    "status": "SECONDARY_REPORT",
+    "statement": "The published apology, as described by Inven Global, admitted keeping chat open and receiving some external information while describing actual gameplay use in conditional rather than explicit terms.",
+    "sources": [
+      "S07"
+    ]
+  },
+  {
+    "id": "C024",
+    "status": "VERIFIED_REPORT",
+    "statement": "The Asia Business Daily reported that the event ended early and that sponsors including Baek Eok Coffee and Kkanbu Chicken suspended or paused related sponsorship/promotional activity pending KRAFTON's response.",
+    "sources": [
+      "S08"
+    ]
+  },
+  {
+    "id": "C025",
+    "status": "ANALYSIS",
+    "statement": "Sponsor, media and community pressure are relevant to the environment around KRAFTON's decision, but they do not by themselves prove why the final sanction was chosen.",
+    "sources": [
+      "S08"
+    ]
+  },
+  {
+    "id": "P001",
+    "status": "USER_SUPPLIED_UNVERIFIED",
+    "statement": "The organizer allegedly answered during a stream or official communication that 'stream checking / đá stream' was allowed.",
+    "sources": [],
+    "needed": "Original clip or official message, speaker identity, timestamp, context, and evidence of authority."
+  },
+  {
+    "id": "P002",
+    "status": "USER_SUPPLIED_UNVERIFIED",
+    "statement": "Viewers allegedly posted Korean players' positions and links to Soopi's live into Himass/TanVuu's chats without the players actively requesting most of that information.",
+    "sources": [],
+    "needed": "Full POV/chat recording and timestamped examples."
+  },
+  {
+    "id": "P003",
+    "status": "USER_SUPPLIED_UNVERIFIED",
+    "statement": "Himass and TanVuu allegedly did not initially want to apologize because they believed they had not committed the conduct later characterized by KRAFTON, but were encouraged by organizers to apologize to calm the showmatch controversy.",
+    "sources": [],
+    "needed": "Organizer messages, player/team testimony, or original recordings."
+  },
+  {
+    "id": "P004",
+    "status": "USER_SUPPLIED_UNVERIFIED",
+    "statement": "DJ Chip allegedly described substantial internal disagreement inside KRAFTON, including opposition to permanent bans from people in both Vietnam and Korea, with the final outcome imposed at a higher level.",
+    "sources": [],
+    "needed": "Original DJ Chip stream/video, exact timestamps, transcript and context."
+  },
+  {
+    "id": "P005",
+    "status": "USER_SUPPLIED_UNVERIFIED",
+    "statement": "Anyone's Legend manager Issacc allegedly described backstage events in a way that materially corroborates DJ Chip's account.",
+    "sources": [],
+    "needed": "Original Issacc post/stream/video, timestamp and transcript."
+  },
+  {
+    "id": "P006",
+    "status": "USER_SUPPLIED_UNVERIFIED",
+    "statement": "The permanent-ban outcome was allegedly being discussed or effectively fixed very early, before internal objections had run their course.",
+    "sources": [],
+    "needed": "Direct testimony or documents showing timing of internal decisions."
+  },
+  {
+    "id": "P007",
+    "status": "UNVERIFIED_ALLEGATION",
+    "statement": "Community allegations concerning Soopi have included use of Input Director, multiple monitors/reflections, direct stream viewing, and possible aim-assistance/aimbot behavior.",
+    "sources": [],
+    "needed": "Original clips, technical analysis and reproducible evidence. Do not state cheating as fact without this."
+  },
+  {
+    "id": "P008",
+    "status": "USER_SUPPLIED_UNVERIFIED",
+    "statement": "Some insiders allegedly interpret the events as a deliberate setup targeting Himass and TanVuu.",
+    "sources": [],
+    "needed": "Evidence establishing pre-event planning and intent. Current public record does not establish this."
+  }
+]

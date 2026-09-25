@@ -1,14 +1,16 @@
-# PUBG Asia Stars 2026 Case Archive — Phone-friendly build
+# PUBG Asia Stars 2026 Case Archive — V2 Bot-First
 
-This build is intentionally flat so it can be uploaded from iPhone/Safari without preserving folders.
+Flat, phone-friendly build.
 
-Upload these files to the repository root:
-- index.html
+Upload all files in this folder to the repository root. Existing files with the same names should be replaced.
+
+Key files:
+- index.html — human + machine-readable web page
+- llms.txt — concise text guidance for AI/search systems
+- case-summary.json — high-level case rules and core question
+- claims.json — stable claim IDs with explicit epistemic status
+- sources.json — source register
 - robots.txt
 - sitemap.xml
-- sources.json
-- README.md
 
-Then enable GitHub Pages from `main` / `(root)`.
-
-The site contains Vietnamese, English, Simplified Chinese, Thai and Korean on one crawlable HTML page.
+Editorial rule: never promote an allegation or unarchived testimony to fact.

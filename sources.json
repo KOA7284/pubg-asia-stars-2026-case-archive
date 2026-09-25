@@ -1,61 +1,107 @@
 [
   {
     "id": "S01",
-    "title": "KRAFTON / PUBG — Findings and Actions Regarding Operational Issues at PUBG Asia Stars",
+    "tier": "primary",
+    "publisher": "PUBG / KRAFTON",
     "date": "2026-09-23",
-    "type": "official",
-    "urls": {
-      "vi": "https://pubg.com/vi/news/11155",
-      "zh": "https://www.pubg.com/zh-cn/news/11155",
-      "th": "https://pubg.com/th/news/11155",
-      "ko": "https://pubg.com/ko/news/11155"
-    }
+    "title": "Investigation Results and Measures Regarding PUBG Asia Stars Operational Issues",
+    "url": "https://www.pubg.com/vi/news/11155",
+    "supports": [
+      "C001",
+      "C002",
+      "C003",
+      "C004",
+      "C005",
+      "C006",
+      "C007"
+    ]
   },
   {
     "id": "S02",
-    "title": "PUBG Asia Stars — Official event page",
+    "tier": "primary",
+    "publisher": "PUBG / KRAFTON",
     "date": "2026-09",
-    "type": "official",
-    "urls": {
-      "en": "https://www.pubg.com/en/events/pubgasiastars",
-      "vi": "https://www.pubg.com/vi/events/pubgasiastars",
-      "ko": "https://www.pubg.com/ko/events/notice/10926"
-    }
+    "title": "PUBG Asia Stars official event page",
+    "url": "https://www.pubg.com/vi/events/pubgasiastars",
+    "supports": [
+      "C008",
+      "C009"
+    ]
   },
   {
     "id": "S03",
-    "title": "Kakao PUBG repost — Apology for PUBG Asia Stars operation/response failures",
-    "date": "2026-09-21",
-    "type": "official-repost",
-    "urls": {
-      "ko": "https://bbs-pubg.kakaogames.com/gaia/do/pubg/competition/read?articleId=4375&bbsId=PN001&objCate1=223&pageIndex=1"
-    }
+    "tier": "primary-repost",
+    "publisher": "Kakao PUBG / KRAFTON notice",
+    "date": "2026-09-20",
+    "title": "Additional notice on PUBG Asia Stars operational issues / Day 3 cancellation",
+    "url": "https://bbs-pubg.kakaogames.com/gaia/do/mobile/pubg/competition/read?articleId=4373&bbsId=PN001&objCate1=223&pageIndex=1",
+    "supports": [
+      "C010",
+      "C011"
+    ]
   },
   {
     "id": "S04",
-    "title": "Inven Global — Teams of Himass and TanVuu object to permanent PUBG bans",
+    "tier": "secondary",
+    "publisher": "Inven Global",
     "date": "2026-09-23",
-    "type": "news",
-    "urls": {
-      "en": "https://www.invenglobal.com/articles/26457/teams-of-himass-and-tanvuu-object-to-permanent-pubg-bans"
-    }
+    "title": "Teams of Himass and TanVuu Object to Permanent PUBG Bans",
+    "url": "https://www.invenglobal.com/articles/26457/teams-of-himass-and-tanvuu-object-to-permanent-pubg-bans",
+    "supports": [
+      "C012",
+      "C013",
+      "C014"
+    ]
   },
   {
     "id": "S05",
-    "title": "ChosunBiz — Report on stream-delay/chat-control rules",
+    "tier": "secondary",
+    "publisher": "ChosunBiz",
     "date": "2026-09-22",
-    "type": "news",
-    "urls": {
-      "ko": "https://biz.chosun.com/it-science/ict/2026/09/22/C4GKFCOJLNHR5AGJGXRY6UVNYA/"
-    }
+    "title": "Krafton draws fire as PUBG Asia Stars lacks anti-cheat rules, sparks boycott",
+    "url": "https://biz.chosun.com/en/en-it/2026/09/22/75QDLWKP7RDSZMKP3PGO4MT7ZQ/?outputType=amp",
+    "supports": [
+      "C015",
+      "C016",
+      "C017"
+    ]
   },
   {
     "id": "S06",
-    "title": "Liquipedia — PUBG Asia Stars 2026 rulebook archive metadata",
+    "tier": "secondary",
+    "publisher": "Inven Global",
+    "date": "2026-09-23",
+    "title": "Krafton permanently bans 2 stream-sniping players, officially apologizes to Soopi",
+    "url": "https://www.invenglobal.com/articles/26456/krafton-permanently-bans-2-stream-sniping-players-officially-apologizes-to-soopi",
+    "supports": [
+      "C018",
+      "C019",
+      "C020"
+    ]
+  },
+  {
+    "id": "S07",
+    "tier": "secondary",
+    "publisher": "Inven Global",
+    "date": "2026-09-19",
+    "title": "Team Korea Withdraws Over Apology Contrary to Krafton's Explanation",
+    "url": "https://www.invenglobal.com/webtest/articles/26258/they-promised-an-admission-of-stream-sniping-team-korea-withdraws-over-apology-contrary-to-kraftons-explanation",
+    "supports": [
+      "C021",
+      "C022",
+      "C023"
+    ]
+  },
+  {
+    "id": "S08",
+    "tier": "secondary",
+    "publisher": "The Asia Business Daily",
     "date": "2026-09-21",
-    "type": "archive",
-    "urls": {
-      "en": "https://liquipedia.net/commons/File%3APUBG_ASIA_STARS_2026_Rulebook.pdf"
-    }
+    "title": "PUBG event ends early amid stream-sniping controversy; boycotts and sponsorship suspensions",
+    "url": "https://view.asiae.co.kr/en/article/2026092111335050847",
+    "supports": [
+      "C024",
+      "C025"
+    ]
   }
 ]
