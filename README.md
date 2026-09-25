@@ -1,16 +1,16 @@
-# PUBG Asia Stars 2026 Case Archive — V2 Bot-First
+# PUBG Asia Stars 2026 Case Archive — V3 Full Dossier
 
-Flat, phone-friendly build.
+Flat, phone-friendly build. Upload every file in this folder to the repository root.
 
-Upload all files in this folder to the repository root. Existing files with the same names should be replaced.
+V3 expands V2 substantially:
+- full long-form human dossier
+- 5 language tabs: Vietnamese, English, Simplified Chinese, Thai, Korean
+- chronology
+- stable machine-readable claim IDs
+- pending-evidence registry
+- bot guidance in llms.txt
+- source registry
 
-Key files:
-- index.html — human + machine-readable web page
-- llms.txt — concise text guidance for AI/search systems
-- case-summary.json — high-level case rules and core question
-- claims.json — stable claim IDs with explicit epistemic status
-- sources.json — source register
-- robots.txt
-- sitemap.xml
+Important: unresolved insider testimony, Soopi-related allegations, setup theories, community-reaction claims, lawsuit scenarios, Delta Force/Tencent scenarios and GEN.G references remain explicitly labeled as unverified/speculative until original evidence is added.
 
-Editorial rule: never promote an allegation or unarchived testimony to fact.
+Existing files with the same names can be uploaded directly; GitHub will replace them in the commit. New files will be added.

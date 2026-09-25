@@ -1,0 +1,84 @@
+[
+  {
+    "date": "2026-09-11",
+    "status": "VERIFIED_FACT",
+    "text": "Official event information presents PUBG Asia Stars as a six-region Asia event centered on PUBG streamers, creative modes and scheduled live broadcasts.",
+    "sources": [
+      "S02"
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "status": "VERIFIED_FACT",
+    "text": "Day 1 is held. The later controversy centers on Himass and TanVuu receiving and allegedly using information from outside normal gameplay.",
+    "sources": [
+      "S01",
+      "S02"
+    ]
+  },
+  {
+    "date": "2026-09-18",
+    "status": "DISPUTED / PARTLY PUBLIC",
+    "text": "The two Vietnamese players publish apologies. The meaning of those apologies becomes disputed: Korean-side accounts say they expected an explicit admission of stream sniping, while the posted text did not contain such an admission.",
+    "sources": [
+      "S07"
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "status": "VERIFIED_FACT",
+    "text": "Team Korea boycotts Day 2 in protest over tournament management and handling of the controversy.",
+    "sources": [
+      "S07"
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "status": "ARCHIVE FACT",
+    "text": "A rulebook revision is publicly archived. A complete before/after version comparison remains necessary.",
+    "sources": [
+      "S09"
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "status": "VERIFIED_FACT",
+    "text": "KRAFTON cancels remaining matches and continues evidence review, including match video, participant POV material and team voice materials.",
+    "sources": [
+      "S03"
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "status": "VERIFIED_REPORT",
+    "text": "The event fallout expands: reporting documents sponsor/promotional pauses while KRAFTON's response is awaited.",
+    "sources": [
+      "S08"
+    ]
+  },
+  {
+    "date": "2026-09-22",
+    "status": "VERIFIED_REPORT",
+    "text": "ChosunBiz reports that Asia Stars lacked mandatory stream-delay and live-chat restrictions that are used in some ordinary PUBG competitions.",
+    "sources": [
+      "S05"
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "status": "VERIFIED_FACT / OFFICIAL_CLAIM",
+    "text": "KRAFTON publishes its investigation result, permanently banning Himass and TanVuu from PUBG accounts and official PUBG esports while also acknowledging operational responsibility and an internal review.",
+    "sources": [
+      "S01",
+      "S06"
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "status": "PARTY_POSITION",
+    "text": "GAM x TE challenges proportionality; Anyone's Legend says it is reviewing rules, procedures and instructions to support Himass's appeal rights.",
+    "sources": [
+      "S04"
+    ]
+  }
+]

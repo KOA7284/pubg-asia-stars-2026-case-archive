@@ -2,106 +2,82 @@
   {
     "id": "S01",
     "tier": "primary",
-    "publisher": "PUBG / KRAFTON",
     "date": "2026-09-23",
+    "publisher": "PUBG / KRAFTON",
     "title": "Investigation Results and Measures Regarding PUBG Asia Stars Operational Issues",
-    "url": "https://www.pubg.com/vi/news/11155",
-    "supports": [
-      "C001",
-      "C002",
-      "C003",
-      "C004",
-      "C005",
-      "C006",
-      "C007"
-    ]
+    "url": "https://pubg.com/vi/news/11155",
+    "summary": "Primary source for KRAFTON's findings against Himass/TanVuu, permanent sanctions, appeal/explanation process, KRAFTON operational responsibility, review of comparable allegations, apology/support to Soopi, and internal process review."
   },
   {
     "id": "S02",
     "tier": "primary",
-    "publisher": "PUBG / KRAFTON",
     "date": "2026-09",
+    "publisher": "PUBG / KRAFTON",
     "title": "PUBG Asia Stars official event page",
     "url": "https://www.pubg.com/vi/events/pubgasiastars",
-    "supports": [
-      "C008",
-      "C009"
-    ]
+    "summary": "Official source describing Asia Stars as a six-region streamer event with creative modes and scheduled live-broadcast days."
   },
   {
     "id": "S03",
     "tier": "primary-repost",
-    "publisher": "Kakao PUBG / KRAFTON notice",
     "date": "2026-09-20",
-    "title": "Additional notice on PUBG Asia Stars operational issues / Day 3 cancellation",
+    "publisher": "Kakao PUBG / KRAFTON notice",
+    "title": "Additional notice: remaining-match cancellation and continuing investigation",
     "url": "https://bbs-pubg.kakaogames.com/gaia/do/mobile/pubg/competition/read?articleId=4373&bbsId=PN001&objCate1=223&pageIndex=1",
-    "supports": [
-      "C010",
-      "C011"
-    ]
+    "summary": "KRAFTON notice cancelling remaining matches, acknowledging earlier communication problems, and describing ongoing evidence review."
   },
   {
     "id": "S04",
     "tier": "secondary",
-    "publisher": "Inven Global",
     "date": "2026-09-23",
-    "title": "Teams of Himass and TanVuu Object to Permanent PUBG Bans",
+    "publisher": "Inven Global",
+    "title": "Teams of Himass and TanVuu object to permanent PUBG bans",
     "url": "https://www.invenglobal.com/articles/26457/teams-of-himass-and-tanvuu-object-to-permanent-pubg-bans",
-    "supports": [
-      "C012",
-      "C013",
-      "C014"
-    ]
+    "summary": "Reports GAM x TE proportionality objection and Anyone's Legend review of rules, instructions and procedure in support of appeal rights."
   },
   {
     "id": "S05",
     "tier": "secondary",
-    "publisher": "ChosunBiz",
     "date": "2026-09-22",
-    "title": "Krafton draws fire as PUBG Asia Stars lacks anti-cheat rules, sparks boycott",
-    "url": "https://biz.chosun.com/en/en-it/2026/09/22/75QDLWKP7RDSZMKP3PGO4MT7ZQ/?outputType=amp",
-    "supports": [
-      "C015",
-      "C016",
-      "C017"
-    ]
+    "publisher": "ChosunBiz",
+    "title": "PUBG Asia Stars lacked mandatory stream-delay and chat-restriction rules",
+    "url": "https://biz.chosun.com/it-science/ict/2026/09/22/C4GKFCOJLNHR5AGJGXRY6UVNYA/?outputType=amp",
+    "summary": "Reports that unlike ordinary PUBG competitions with stronger anti-stream-sniping controls, Asia Stars did not mandate a specific stream delay or chat restriction before the controversy."
   },
   {
     "id": "S06",
     "tier": "secondary",
-    "publisher": "Inven Global",
     "date": "2026-09-23",
-    "title": "Krafton permanently bans 2 stream-sniping players, officially apologizes to Soopi",
-    "url": "https://www.invenglobal.com/articles/26456/krafton-permanently-bans-2-stream-sniping-players-officially-apologizes-to-soopi",
-    "supports": [
-      "C018",
-      "C019",
-      "C020"
-    ]
+    "publisher": "Inven Global",
+    "title": "Krafton permanently bans two players and apologizes to Soopi",
+    "url": "https://labs.invenglobal.com/articles/26456/krafton-permanently-bans-2-stream-sniping-players-officially-apologizes-to-soopi",
+    "summary": "Reports KRAFTON's permanent sanctions, finding that information was used in tactics, and separate apology/support for Soopi."
   },
   {
     "id": "S07",
     "tier": "secondary",
-    "publisher": "Inven Global",
     "date": "2026-09-19",
-    "title": "Team Korea Withdraws Over Apology Contrary to Krafton's Explanation",
+    "publisher": "Inven Global",
+    "title": "Team Korea withdraws over apology controversy",
     "url": "https://www.invenglobal.com/webtest/articles/26258/they-promised-an-admission-of-stream-sniping-team-korea-withdraws-over-apology-contrary-to-kraftons-explanation",
-    "supports": [
-      "C021",
-      "C022",
-      "C023"
-    ]
+    "summary": "Reports Team Korea's Day 2 boycott and a dispute over what KRAFTON allegedly told the Korean side the Vietnamese apology would contain."
   },
   {
     "id": "S08",
     "tier": "secondary",
-    "publisher": "The Asia Business Daily",
     "date": "2026-09-21",
-    "title": "PUBG event ends early amid stream-sniping controversy; boycotts and sponsorship suspensions",
+    "publisher": "The Asia Business Daily",
+    "title": "Event ends early amid boycott and sponsorship suspensions",
     "url": "https://view.asiae.co.kr/en/article/2026092111335050847",
-    "supports": [
-      "C024",
-      "C025"
-    ]
+    "summary": "Reports early termination of the event and sponsorship/promotional pauses by named sponsors while awaiting KRAFTON's response."
+  },
+  {
+    "id": "S09",
+    "tier": "archive",
+    "date": "2026-09-21",
+    "publisher": "Liquipedia",
+    "title": "PUBG Asia Stars 2026 rulebook archive metadata",
+    "url": "https://liquipedia.net/commons/File%3APUBG_ASIA_STARS_2026_Rulebook.pdf",
+    "summary": "Archive metadata for a rulebook revision. Exact version-to-version comparison still requires preserved source copies."
   }
 ]
