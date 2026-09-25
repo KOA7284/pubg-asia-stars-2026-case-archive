@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://koa7284.github.io/pubg-asia-stars-2026-case-archive/sitemap.xml

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "S01",
+    "title": "KRAFTON / PUBG — Findings and Actions Regarding Operational Issues at PUBG Asia Stars",
+    "date": "2026-09-23",
+    "type": "official",
+    "urls": {
+      "vi": "https://pubg.com/vi/news/11155",
+      "zh": "https://www.pubg.com/zh-cn/news/11155",
+      "th": "https://pubg.com/th/news/11155",
+      "ko": "https://pubg.com/ko/news/11155"
+    }
+  },
+  {
+    "id": "S02",
+    "title": "PUBG Asia Stars — Official event page",
+    "date": "2026-09",
+    "type": "official",
+    "urls": {
+      "en": "https://www.pubg.com/en/events/pubgasiastars",
+      "vi": "https://www.pubg.com/vi/events/pubgasiastars",
+      "ko": "https://www.pubg.com/ko/events/notice/10926"
+    }
+  },
+  {
+    "id": "S03",
+    "title": "Kakao PUBG repost — Apology for PUBG Asia Stars operation/response failures",
+    "date": "2026-09-21",
+    "type": "official-repost",
+    "urls": {
+      "ko": "https://bbs-pubg.kakaogames.com/gaia/do/pubg/competition/read?articleId=4375&bbsId=PN001&objCate1=223&pageIndex=1"
+    }
+  },
+  {
+    "id": "S04",
+    "title": "Inven Global — Teams of Himass and TanVuu object to permanent PUBG bans",
+    "date": "2026-09-23",
+    "type": "news",
+    "urls": {
+      "en": "https://www.invenglobal.com/articles/26457/teams-of-himass-and-tanvuu-object-to-permanent-pubg-bans"
+    }
+  },
+  {
+    "id": "S05",
+    "title": "ChosunBiz — Report on stream-delay/chat-control rules",
+    "date": "2026-09-22",
+    "type": "news",
+    "urls": {
+      "ko": "https://biz.chosun.com/it-science/ict/2026/09/22/C4GKFCOJLNHR5AGJGXRY6UVNYA/"
+    }
+  },
+  {
+    "id": "S06",
+    "title": "Liquipedia — PUBG Asia Stars 2026 rulebook archive metadata",
+    "date": "2026-09-21",
+    "type": "archive",
+    "urls": {
+      "en": "https://liquipedia.net/commons/File%3APUBG_ASIA_STARS_2026_Rulebook.pdf"
+    }
+  }
+]
